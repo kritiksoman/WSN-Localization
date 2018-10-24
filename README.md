@@ -14,17 +14,17 @@ Statistics and Machine Learning Toolbox
 ```
 
 ## Result Screenshots
-![image1](https://github.com/kritiksoman/WSN-Localization/blob/master/results/WSN.png) 
+![image1](https://github.com/kritiksoman/WSN-Localization/blob/master/results/WSN.png)<br/>
 Example WSN.
 
 
-![image2](https://github.com/kritiksoman/WSN-Localization/blob/master/results/PathLoss.png) 
+![image2](https://github.com/kritiksoman/WSN-Localization/blob/master/results/PathLoss.png)<br/>
 Path Loss Model.
 
-![image3](https://github.com/kritiksoman/WSN-Localization/blob/master/results/RMSE.png) 
+![image3](https://github.com/kritiksoman/WSN-Localization/blob/master/results/RMSE.png)<br/> 
 RMSE v/s N (number of anchors).
 
-![image4](https://github.com/kritiksoman/WSN-Localization/blob/master/results/CDF.png) 
+![image4](https://github.com/kritiksoman/WSN-Localization/blob/master/results/CDF.png)<br/>
 CDF v/s error.
 
 Note: Slightly different anchor placement was used in the WSN localization simulation.
