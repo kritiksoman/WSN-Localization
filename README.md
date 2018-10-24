@@ -14,9 +14,9 @@ Statistics and Machine Learning Toolbox
 ```
 
 ## Result Screenshots
-Note: Slightly different anchor placement was used in the WSN localization simulation.
 ![image1](https://github.com/kritiksoman/WSN-Localization/blob/master/results/WSN.png) 
 Example WSN.
+
 
 ![image2](https://github.com/kritiksoman/WSN-Localization/blob/master/results/PathLoss.png) 
 Path Loss Model.
@@ -27,6 +27,7 @@ RMSE v/s N (number of anchors).
 ![image4](https://github.com/kritiksoman/WSN-Localization/blob/master/results/CDF.png) 
 CDF v/s error.
 
+Note: Slightly different anchor placement was used in the WSN localization simulation.
 
 ## References
 [1] Zhang, Yueyue, et al. "RSS-based localization in WSNs using Gaussian mixture model via semidefinite relaxation." IEEE Communications Letters 21.6 (2017): 1329-1332.
