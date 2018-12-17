@@ -1,5 +1,7 @@
 # Node localization in Wireless Sensor Network
 
+[![MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/kritiksoman/Rooftop-Segmentation/blob/master/LICENSE)
+
 ## Overview
 This is the MATLAB implementation of the work presented in [RSS-Based Localization in WSNs Using Gaussian Mixture Model via Semidefinite Relaxation](https://ieeexplore.ieee.org/abstract/document/7847378/).
 
