@@ -6,19 +6,19 @@
 This is the MATLAB implementation of the work presented in [RSS-Based Localization in WSNs Using Gaussian Mixture Model via Semidefinite Relaxation](https://ieeexplore.ieee.org/abstract/document/7847378/).
 
 ## Files
-pathLossModel.m : Plot the path loss model and the histogram of the Gaussian Mixture Model
-estimatePos.m : Returns the estimated target position using SDP in CVX
-export_CDF_GM_SDP.m : Creates matrix sdpCDF.mat containing CDF for GM-SDP-2
-export_CDF_WLS.m : Creates matrix wlsCDF.mat containing CDF for weighted least square (WLS)
-export_crlb.m : Creates matrix crlb.mat containing Cramer-Rao Lower Bound (CRLB) for WSN Localization
-export_GM_SDP.m : Creates matrix SDPrmse.mat containing RMSE for GM-SDP-2
-export_WLS.m : Creates matrix SDPrmse.mat containing RMSE for WLS
-findCrlb.m : Returns CRLB for a particular target and anchor placement 
-findRSS.m : Returns the Received Signal Strength (RSS) at all target nodes in a WSN
-monteCarloInt.m : Returns the value of monte-carlo integration used in calculating the fisher information matrix
-place.m : Used for setting the location of target and anchor nodes in WSN
-plot_CDF.m : Used for plotting the CDF of various localization algorithms from their .mat files
-plot_RMSE.m : Used for plotting the RMSE of various localization algorithms from their .mat files
+pathLossModel.m : Plot the path loss model and the histogram of the Gaussian Mixture Model <br/>
+estimatePos.m : Returns the estimated target position using SDP in CVX<br/>
+export_CDF_GM_SDP.m : Creates matrix sdpCDF.mat containing CDF for GM-SDP-2<br/>
+export_CDF_WLS.m : Creates matrix wlsCDF.mat containing CDF for weighted least square (WLS)<br/>
+export_crlb.m : Creates matrix crlb.mat containing Cramer-Rao Lower Bound (CRLB) for WSN Localization<br/>
+export_GM_SDP.m : Creates matrix SDPrmse.mat containing RMSE for GM-SDP-2<br/>
+export_WLS.m : Creates matrix SDPrmse.mat containing RMSE for WLS<br/>
+findCrlb.m : Returns CRLB for a particular target and anchor placement <br/>
+findRSS.m : Returns the Received Signal Strength (RSS) at all target nodes in a WSN<br/>
+monteCarloInt.m : Returns the value of monte-carlo integration used in calculating the fisher information matrix<br/>
+place.m : Used for setting the location of target and anchor nodes in WSN<br/>
+plot_CDF.m : Used for plotting the CDF of various localization algorithms from their .mat files<br/>
+plot_RMSE.m : Used for plotting the RMSE of various localization algorithms from their .mat files<br/>
 
 Saved output folder contains .mat files of the variables plotted in the result screenshots section.
 
