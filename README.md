@@ -43,6 +43,13 @@ CDF v/s error.
 
 Note: Slightly different anchor placement was used in the WSN localization simulation.
 
+## Steps to obtain results shown above
+[1] Edit place.m for changing target and anchor node location.<br/>
+[2] Run export_GM_SDP.m, export_WLS.m, and export_crlb.m to generate .mat files for RMSE.<br/>
+[3] Run plot_RMSE.m to plot RMSE vs N.<br/>
+[4] Run export_CDF_GM_SDP.m, and export_CDF_WLS.m to generate .mat files for CDF.<br/>
+[5] Run plot_CDF.m to plot CDF vs error.<br/>
+
 ## References
 [1] Zhang, Yueyue, et al. "RSS-based localization in WSNs using Gaussian mixture model via semidefinite relaxation." IEEE Communications Letters 21.6 (2017): 1329-1332.<br/>
 [2] http://cvxr.com/cvx/
