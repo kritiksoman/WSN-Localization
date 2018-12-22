@@ -32,7 +32,6 @@ Statistics and Machine Learning Toolbox
 ![image1](https://github.com/kritiksoman/WSN-Localization/blob/master/results/WSN.png)<br/>
 Example WSN.
 
-
 ![image2](https://github.com/kritiksoman/WSN-Localization/blob/master/results/PathLoss.png)<br/>
 Path Loss Model.
 
