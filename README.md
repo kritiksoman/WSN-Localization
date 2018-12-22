@@ -44,6 +44,5 @@ CDF v/s error.
 Note: Slightly different anchor placement was used in the WSN localization simulation.
 
 ## References
-[1] Zhang, Yueyue, et al. "RSS-based localization in WSNs using Gaussian mixture model via semidefinite relaxation." IEEE Communications Letters 21.6 (2017): 1329-1332.
-
+[1] Zhang, Yueyue, et al. "RSS-based localization in WSNs using Gaussian mixture model via semidefinite relaxation." IEEE Communications Letters 21.6 (2017): 1329-1332.<br/>
 [2] http://cvxr.com/cvx/
